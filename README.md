@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SiddharthVijayVargiya
 - 👀 I’m interested in Learning
-- 🌱 I’m currently learning Data
-- 💞️ I’m looking to collaborate on Data
+- 🌱 I’m currently learning opencv
+- 💞️ I’m looking to collaborate on opencv
 - 📫 How to reach me DM me
 
 <!---
